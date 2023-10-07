@@ -12,8 +12,6 @@ The folder includes the following files:
 
 In addition, you can view images of the front and back sides of the PCB:
 
-## PCB
-
 - **Front Side**:
 ![WhatsApp Image 2023-07-19 at 17 46 56](https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/9f11978d-dd18-417a-8ed1-d2738a3db0e1)
 
