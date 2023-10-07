@@ -10,6 +10,10 @@ The folder includes the following files:
 
 3. **Gerber Files**: These files are used for manufacturing the PCB. They contain information about the copper layers, solder mask, legend, and drill holes.
 
+Schematic:
+![image](https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/325e3494-aa8a-47dd-b426-101363fc6fbd)
+
+
 In addition, you can view images of the front and back sides of the PCB:
 
 <table>
