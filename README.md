@@ -36,8 +36,7 @@ Please note that proper installation is crucial for the effective operation of t
 
 <table align = "center">
   <tr>
-    <td> <img src=![image](https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/c51fb72c-85e7-46ef-ac5a-a6a21fa83f50)
- alt="Image 1" style="width: 250px;"/> </td>
+    <td> <img src="https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/c51fb72c-85e7-46ef-ac5a-a6a21fa83f50" alt="Image 1" style="width: 250px;"/> </td>
     <td> <img src="https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/2ea9e62b-b38f-46c4-b355-64414cae6772" alt="Image 2" style="width: 250px;"/> </td>
   </tr>
 </table>
@@ -52,6 +51,7 @@ Three states:
 </table>
 
 Remote Monitoring:
+
 ![image](https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/6bd3753c-5423-42e1-95d8-e97af386ef18)
 
 
