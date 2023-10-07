@@ -105,7 +105,7 @@ I welcome and appreciate all contributions. Here's how you can help:
 
 This project is licensed under the GNU General Public License (GPL). This means that you are free to use, modify, and distribute the code, but any changes or improvements must also be released under the GPL.
 
-For the full license text, see the [LICENSE] file in this repository.
+For the full license text, see the LICENSE file in this repository.
 
 
 ## Contact Information
