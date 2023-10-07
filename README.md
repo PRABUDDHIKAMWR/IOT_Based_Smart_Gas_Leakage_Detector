@@ -52,7 +52,9 @@ Three states:
 
 Remote Monitoring:
 
-![image](https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/6bd3753c-5423-42e1-95d8-e97af386ef18)
+<p align="center">
+  <img src="https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/6bd3753c-5423-42e1-95d8-e97af386ef18" alt="Alternate Text" />
+</p>
 
 
 Follow these steps to operate the Gas Leakage Detector:
