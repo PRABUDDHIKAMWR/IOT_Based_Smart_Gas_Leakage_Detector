@@ -20,7 +20,7 @@ This Gas Leakage Detector is an essential tool for anyone looking to enhance the
 - License
 - Contact Information
 
-## Installation
+## Installation 
 
 To ensure optimal performance and safety, please follow these installation guidelines for the Gas Leakage Detector:
 
@@ -31,9 +31,10 @@ To ensure optimal performance and safety, please follow these installation guide
 Please note that proper installation is crucial for the effective operation of the Gas Leakage Detector. Always refer to these guidelines when setting up your device.
 
 ## Usage
-![WhatsApp Image 2023-07-19 at 17 46 58](https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/2ea9e62b-b38f-46c4-b355-64414cae6772)
 
 ![WhatsApp Image 2023-07-19 at 17 46 58](https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/ad9d3425-30bc-43cf-896f-6339a2fc5b69)
+
+![WhatsApp Image 2023-07-19 at 17 46 58](https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/2ea9e62b-b38f-46c4-b355-64414cae6772)
 
 Follow these steps to operate the Gas Leakage Detector:
 
