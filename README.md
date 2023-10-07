@@ -31,9 +31,10 @@ To ensure optimal performance and safety, please follow these installation guide
 Please note that proper installation is crucial for the effective operation of the Gas Leakage Detector. Always refer to these guidelines when setting up your device.
 
 ## Usage
+<align = center>
 ![WhatsApp Image 2023-07-19 at 17 46 56](https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/f25ff9be-49ff-40c9-8177-9d3d7ae7c204)
 
-<table>
+<table align = "center">
   <tr>
     <td> <img src="https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/ad9d3425-30bc-43cf-896f-6339a2fc5b69" alt="Image 1" style="width: 250px;"/> </td>
     <td> <img src="https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/2ea9e62b-b38f-46c4-b355-64414cae6772" alt="Image 2" style="width: 250px;"/> </td>
@@ -41,7 +42,7 @@ Please note that proper installation is crucial for the effective operation of t
 </table>
 
 Three states:
-<table>
+<table align = "center">
   <tr>
     <td> <img src="https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/e1cb4cdb-ff77-4663-adeb-313963092970" alt="Normal State" style="width: 250px;"/> </td>
     <td> <img src="https://github.com/PRABUDDHIKAMWR/IOT_Based_Smart_Gas_Leakage_Detector/assets/117188107/30fcb3f9-862e-4062-9b8d-d5e5bb43de6b" alt="Cooking State" style="width: 250px;"/> </td>
